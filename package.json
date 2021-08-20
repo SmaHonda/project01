@@ -1,21 +1,15 @@
 {
   "name": "project01",
   "version": "1.0.0",
-  "description": "Let's Write 用 VuePress 製作說明文件頁面",
   "main": "index.js",
-  "repository": "https://github.com/SmaHonda/project01",
+  "repository": "https://github.com/SmaHonda/project01.git",
   "scripts": {
-    "serve": "vuepress dev .",
-    "build": "vuepress build ."
-  },
-  "author": "Let's Write",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+},
+  "author": "SmaHonda <86571238+SmaHonda@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-google-analytics": "^1.8.2",
-    "pug": "^3.0.2",
-    "pug-plain-loader": "^1.1.0",
-    "vuepress": "^1.8.2",
-    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+    "vuepress": "^1.8.2"
   }
 }
