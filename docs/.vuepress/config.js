@@ -4,7 +4,7 @@ module.exports = {
     base: '/project01/',
     repo: 'https://github.com/SmaHonda/project01',
     themeConfig: {
-      sidebarDepth: 0,
+      sidebarDepth: 5,
       sidebar: [
         ['/', 'info']
       ],
