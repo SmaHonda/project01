@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Terraform 的一百零一種姿勢',
   description: 'Terraform manage guide',
-  base: '/terraform-manage-guide/',
-  repo: 'https://github.com/shazi7804/terraform-manage-guide',
+  base: '/project01/',
+  repo: 'https://github.com/SmaHonda/project01',
   themeConfig: {
     sidebarDepth: 0,
     sidebar: [
@@ -73,7 +73,7 @@ module.exports = {
     ],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/shazi7804/terraform-manage-guide' }
+      // { text: 'Github', link: 'https://github.com/shazi7804/terraform-manage-guide' }
     ]
   }
 }

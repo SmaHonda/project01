@@ -13,6 +13,6 @@ docs:
 
 run:
 	vuepress dev docs
-	@echo 'running vuepress to "http://localhost:8080/terraform-manage-guide/"'
+	@echo 'running vuepress to "http://localhost:8080/project01/"'
   
 
