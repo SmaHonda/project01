@@ -1,3 +1,0 @@
-# hello
-
-THIS IS MADE BY VUEPRESS
